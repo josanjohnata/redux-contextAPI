@@ -1,0 +1,11 @@
+{
+  "name": "redux-contextapi",
+  "version": "1.0.0",
+  "description": "This is a study project focused on consolidating and comparing two of the main state management tools in the React Native ecosystem: **Redux** and the **Context API**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
