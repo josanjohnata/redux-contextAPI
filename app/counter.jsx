@@ -1,9 +1,9 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet, View } from 'react-native';
-import { CounterProvider } from '../src/contexts/CounterContext';
 import { CounterA } from '../src/components/CounterA';
+import { CounterProvider } from '../src/contexts/CounterContext';
 
-export default function TabTwoScreen() {
+export default function Page() {
   return (
     // 2. Usando o Provider para "abraçar" os componentes
     <CounterProvider>
