@@ -28,6 +28,36 @@ For this purpose, the app implements two simple counters side-by-side, each usin
 * **Boilerplate:** The amount of code needed for each approach.
 * **Scalability:** Reflecting on when to use one or the other in projects of different complexity.
 
+-----
+
+### Configuração e Execução do App
+
+Para rodar este projeto na sua máquina local, siga estes passos:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/josanjohnata/redux-contextAPI.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd redux-contextAPI
+    ```
+3.  **Install the dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the application:**
+    ```bash
+    npm run start
+    ```
+    Or, you can run it directly on a specific platform:
+    ```bash
+    npm run android
+    ```
+    ```bash
+    npm run ios
+    ```
+    
 ---
 
 # 🇧🇷 pt
@@ -59,3 +89,33 @@ Para isso, o app implementa dois contadores simples, lado a lado, onde cada um u
 * **Fluxo de Dados:** A diferença entre despachar `actions` para `reducers` (Redux) e chamar funções diretamente do contexto (Context API).
 * **Boilerplate:** A quantidade de código necessária para cada abordagem.
 * **Escalabilidade:** Refletir sobre quando usar um ou outro em projetos de diferentes complexidades.
+
+-----
+
+### Configuração e Execução do App
+
+Para rodar este projeto na sua máquina local, siga estes passos:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/josanjohnata/redux-contextAPI.git
+    ```
+2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd redux-contextAPI
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+4.  **Inicie a aplicação:**
+    ```bash
+    npm run start
+    ```
+    Ou, você pode executá-la diretamente em uma plataforma específica:
+    ```bash
+    npm run android
+    ```
+    ```bash
+    npm run ios
+    ```
