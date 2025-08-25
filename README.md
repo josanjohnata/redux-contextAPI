@@ -119,3 +119,6 @@ Para rodar este projeto na sua máquina local, siga estes passos:
     ```bash
     npm run ios
     ```
+-----
+
+https://github.com/user-attachments/assets/151a8842-35d4-4bd4-a0d0-65cad0b209ac
